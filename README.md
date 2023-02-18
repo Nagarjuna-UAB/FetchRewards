@@ -18,4 +18,5 @@ To up and running the project please follow the steps
     node index.js 5000 transactions.csv
    ```
 
-
+### The output displays like below
+<img width="380" alt="Screenshot 2023-02-18 at 03 17 19" src="https://user-images.githubusercontent.com/27946024/219852376-a2544424-acff-4732-bdec-4ad96babce50.png">
