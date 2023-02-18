@@ -72,7 +72,9 @@ const displayBalances = (finalPayersInfo) => {
       .reduce((a, b) => +a + +b, 0);
   }
   console.log("Final Points Balance: ");
-  console.log(outputObj);
+  // To Display tidy JSON
+  console.log(JSON.stringify(outputObj, null, 4));
+
 };
 
 
