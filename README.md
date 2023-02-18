@@ -9,7 +9,7 @@ To up and running the project please follow the steps
    ```sh
    git clone https://github.com/Nagarjuna-UAB/FetchRewards.git
    ```
-3. Install NPM packages
+3. Navigate to the project and install NPM packages(node modules)
    ```sh
    npm install
    ```
