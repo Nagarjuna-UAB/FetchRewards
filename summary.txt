@@ -1,0 +1,23 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I used Node.js to develop this application. It's easy to start development of the project. Easily large number of
+libraries using node package manager (npm). Also, It's been one widely used technology to develop the back-end 
+applications. Used the file system library to read the files in our local system. Even though we are having so many 
+libraries to parse the CSV file. I used 'csv-parser' because, we can easily get the data in the array of objects format.
+and also size of the package is also less compared to other packages.
+
+
+2. What are the advantages and disadvantages of your solution?
+
+The advantages of my solution apart from the fetching the correct output is showing the messages when we got an error
+providing the arguments,providing the wrong file, more than available points are provided. For easy understanding
+have been written the code in different functions. 
+The disadvantages is we iterating over the data multiple times. May be we can reduce this. As we are using the hashMap
+and to display the in object format we have to iterate over hashMap again.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+My favorite project is Home Automation application. It's about controlling home electrical devices using mobile 
+application. The challenge i faced while developing is fetching the data from the electrical device and updating
+in the application based on the frequent change.
+
